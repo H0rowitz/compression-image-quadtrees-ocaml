@@ -27,5 +27,3 @@ Remarque:
 Toutes les explications/commentaires sont dans le rapport pour une raison de lisibilité (jupyter-notebook a été utilisé, ainsi que vscode).
 De plus aucune explication explicite n'a été faite concernant les fonctions non-liées directement au DM, i.e toute la partie BONUS car aurait ajouté trop de "bruit" et
 ne sont pas complexes à la lecture du code (transformations, cast etc). 
-
-Klepic Vladimir
